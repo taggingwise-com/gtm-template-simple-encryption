@@ -16,5 +16,5 @@ homepage: "https://taggingwise.com"
 documentation: "https://github.com/taggingwise-com/gtm-template-simple-encryption/README.md"
 versions:
   # Latest version
-  - sha: 
+  - sha: 80d179ec04109fc41c4f1e87c265fcb9b9048628
     changeNotes: Initial release
